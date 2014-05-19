@@ -1,4 +1,4 @@
-random-scripts
+random-scripts [![Kite](https://usekite.com/live-demo-button.png)](https://usekite.com/deploy)
 ==============
 
 This is a collection of random scripts I use from time to time.
